@@ -1,11 +1,10 @@
 # 👋 Hello! I'm Phasha Mmapula Suzan
 
-###  Currently Accelerating My Career
-
 **A focused Software Developer** passionate about building impactful technology and changing the world through innovation.
 
 ---
 
+###  Currently Accelerating My Career
 I am currently enrolled in the **FNB Academy at CAPACITI**, a career accelerator for young professionals, where I am gaining deeper insight into:
 
 * 🔹 **Artificial Intelligence & Responsible AI**
